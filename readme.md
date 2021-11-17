@@ -1,4 +1,4 @@
-# Instalação do GCC
+# Instalação do Compilador GCC
 
 link para download
 https://sourceforge.net/projects/mingw/files/Installer/mingw-get-setup.exe/download
